@@ -265,9 +265,9 @@ export const vehicles = [
     blurb: "Subtle drama, effortless comfort, and a composed grand touring character.",
     description:
       "A discreet executive sedan concept built around calm, long-distance comfort, considered materials, and effortless reserve.",
-    image: "/noir s.jpg",
+    image: "/noir-s.jpg",
     gallery: [
-      { src: "/Noir S.jpg", label: "Studio finish: Side view" },
+      { src: "/noir-s.jpg", label: "Studio finish: Side view" },
       { src: "/Noir S1.jpg", label: "Presence: Front view" },
       { src: "/Noir S2.jpg", label: "Ex. Study: Back view" },
     ],
