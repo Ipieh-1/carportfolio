@@ -132,7 +132,7 @@ const entries = [
     title: "Noir S: The Art of Restraint",
     category: "Design",
     readTime: "4 min read",
-    image: "/Noir S.jpg",
+    image: "/noir-s.jpg",
     imageAlt: "Illustrative dark luxury car in an urban setting",
     excerpt:
       "A closer look at the Noir S concept and how quiet proportions, careful surfaces, and a restrained cabin create presence.",
