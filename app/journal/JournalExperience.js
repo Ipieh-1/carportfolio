@@ -218,7 +218,7 @@ const entries = [
     ],
   },
   {
-    date: "MODEL STUDY",
+    date: "HERITAGE NOTES",
     title: "Apex CR: The Grand Touring Ideal",
     category: "Heritage",
     readTime: "4 min read",
@@ -229,11 +229,11 @@ const entries = [
     body: [
       "The Apex CR concept brings together two complementary ambitions: a car with the stance and response of a performance coupe, and the composure to make a longer journey feel effortless.",
       "Its design language favours a low, continuous profile and carefully resolved surfaces. Rather than adding detail for its own sake, the concept lets proportion and light establish its character.",
-      "Apex CR is an illustrative portfolio concept, not a production vehicle or a verified specification.",
+      "Apex CR is an origin brand which brought together the concept and idea of 'Apex GT Motors' as a branch of 'Apex Production Ltd'.",
     ],
   },
   {
-    date: "HERITAGE NOTES",
+    date: "MODEL STUDY",
     title: "Tensile S: The Shape of a Lasting Legacy",
     category: "Performance",
     readTime: "4 min read",
@@ -294,7 +294,7 @@ const entries = [
   },
   {
     date: "MODEL STUDY",
-    title: "Noir S: Context Before Collecting",
+    title: "Noir S (25 V.) : Context Before Collecting",
     category: "Market Insights",
     readTime: "4 min read",
     image: "/Noir 2.jpg",
@@ -305,6 +305,7 @@ const entries = [
       "Before comparing a car to market headlines, start with the individual example. Condition, maintenance, documentation, ownership history, and originality all help provide context.",
       "A careful review also makes space for what is not known. Independent inspection and appropriate professional advice may help clarify open questions, but neither a model's story nor a market trend guarantees future value.",
       "Noir S is an illustrative Apex concept. This editorial is not a valuation, investment recommendation, or forecast.",
+      "(Previous Version)"
     ],
   },
   {

@@ -84,12 +84,6 @@ export default function Footer() {
               >
                 Contact us <span aria-hidden="true">→</span>
               </Link>
-              <Link
-                href="/contact?type=Private%20Viewing%20%2F%20Test%20Drive"
-                className="inline-flex items-center gap-2 rounded-full border border-white/15 px-4 py-2.5 text-[9px] font-medium uppercase tracking-[0.18em] text-white/75 transition hover:border-white/35 hover:text-white"
-              >
-                Book a drive
-              </Link>
             </div>
           </div>
         </div>

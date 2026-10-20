@@ -20,7 +20,7 @@ export const vehicles = [
       ["Output", "620 hp"],
       ["0-100 km/h", "3.2 seconds"],
       ["Top speed", "320 km/h"],
-      ["Seating", "2+2"],
+      ["Seating", "2"],
     ],
     features: ["Adaptive grand touring suspension", "Hand-finished leather cabin", "Drive-mode memory"],
     ownershipConcept: [
@@ -123,6 +123,7 @@ export const vehicles = [
       ["0-100 km/h", "3.6 seconds"],
       ["Estimated range", "510 km"],
       ["Drive", "All-wheel drive"],
+      ["Seating", "2"],
     ],
     features: ["Regenerative braking modes", "Fast-charge capability", "Minimalist digital cockpit"],
     ownershipConcept: [
@@ -212,7 +213,7 @@ export const vehicles = [
     spec: "Open-air cruising",
     blurb: "A light, expressive machine for long roads and little compromise.",
     description:
-      "A two-seat roadster concept focused on open-air touring, light-footed handling, and an uncomplicated connection to the drive.",
+      "A five-seat roadster concept focused on open-air touring, light-footed handling, and an uncomplicated connection to the drive.",
     image: "/Solistic.jpg",
     gallery: [
       { src: "/solistic.jpg", label: "Open-road study" },
@@ -224,7 +225,7 @@ export const vehicles = [
       ["Output", "390 hp"],
       ["0-100 km/h", "4.2 seconds"],
       ["Top speed", "285 km/h"],
-      ["Seating", "2"],
+      ["Seating", "5"],
     ],
     features: ["Power-folding soft top", "Sport-tuned steering", "Heated performance seats"],
     ownershipConcept: [
@@ -275,7 +276,7 @@ export const vehicles = [
       ["Output", "540 hp"],
       ["0-100 km/h", "3.8 seconds"],
       ["Top speed", "310 km/h"],
-      ["Seating", "4"],
+      ["Seating", "2"],
     ],
     features: ["Acoustic comfort glazing", "Rear-cabin comfort package", "Adaptive touring drive modes"],
     ownershipConcept: [

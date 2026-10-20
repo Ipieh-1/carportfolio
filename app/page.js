@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 
 const fallbackStats = [
-  { value: "12", label: "Curated models" },
+  { value: "12+", label: "Curated models" },
   { value: "4.9/5", label: "Client rating" },
   { value: "48h", label: "Delivery window" },
   { value: "24/7", label: "Support access" },
