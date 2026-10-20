@@ -34,7 +34,7 @@ const featuredCars = [
   },
   {
     slug: "noir-s",
-    image: "/noir s.jpg",
+    image: "/noir-s.jpg",
     name: "Noir S",
     type: "tourer",
     accent: "Luxery touring",
